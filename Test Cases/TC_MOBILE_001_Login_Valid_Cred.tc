@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MOBILE_001_Login_Valid_Cred</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b9284c1-e8c9-4d92-ba21-6fa412338aba</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_MOBILE_003_Login_Invalid_Cred</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dcffebe8-91e1-4f6e-89f7-1ed344802a79</testCaseGuid>
+</TestCaseEntity>
